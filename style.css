@@ -7,7 +7,7 @@
 }
 
 :root {
-  --main-bg-color: #212529;
+  --main-bg-color: #343a40;
   --main-txt-color: #fff5f5;
 }
 
@@ -25,11 +25,24 @@ body {
 
 /* COMPONENTS */
 
-.hero__main {
-  height: 90vh;
+.main {
   max-width: 120rem;
   margin: 5rem auto 2rem;
+  border: 0.5rem solid #fff;
+  padding: 0 10rem;
   position: relative;
+  background: rgb(33, 37, 41);
+  background: linear-gradient(
+    125deg,
+    rgba(33, 37, 41, 1) 0%,
+    rgba(33, 37, 41, 1) 18%,
+    rgba(33, 37, 41, 1) 100%
+  );
+  z-index: -500;
+}
+
+.hero__main {
+  height: 90vh;
 }
 
 .hero__main_header {
