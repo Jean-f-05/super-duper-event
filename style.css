@@ -8,7 +8,7 @@
 
 :root {
   --main-bg-color: #343a40;
-  --main-txt-color: #fff5f5;
+  --main-txt-color: #d7d1de;
   --main-color: #371b58;
   --main-color-light: #5b4b8a;
 }
@@ -129,12 +129,12 @@ body {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  height: 14.5rem;
+  height: 16.5rem;
 }
 
 .testimonial {
   position: relative;
-  border-bottom: 0.2rem solid #fff;
+  border-bottom: 0.1rem solid #fff;
 }
 
 .testimonial__description {
@@ -162,5 +162,13 @@ body {
 }
 
 .testimonial_img {
+  width: 25rem;
+}
+
+.testimonial2_img {
+  width: 10rem;
+}
+
+.testimonial3_img {
   width: 25rem;
 }
