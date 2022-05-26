@@ -113,3 +113,9 @@ body {
   height: 50vh;
   padding: 3rem 10rem 0;
 }
+
+.figure {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
