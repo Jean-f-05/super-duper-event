@@ -33,7 +33,6 @@ body {
   max-width: 120rem;
   margin: 5rem auto 2rem;
   border: 0.5rem solid #fff;
-  padding: 0 10rem;
 
   background: rgb(33, 37, 41);
   background: linear-gradient(
@@ -51,7 +50,7 @@ body {
 }
 
 .hero__main_header {
-  padding-top: 15rem;
+  padding: 15rem 10rem 0;
 }
 
 .header {
