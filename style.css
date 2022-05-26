@@ -23,6 +23,10 @@ body {
   color: var(--main-txt-color);
 }
 
+.margin_small {
+  margin-top: 3rem;
+}
+
 /* COMPONENTS */
 
 .main {
@@ -30,7 +34,7 @@ body {
   margin: 5rem auto 2rem;
   border: 0.5rem solid #fff;
   padding: 0 10rem;
-  position: relative;
+
   background: rgb(33, 37, 41);
   background: linear-gradient(
     125deg,
@@ -38,11 +42,12 @@ body {
     rgba(33, 37, 41, 1) 18%,
     rgba(33, 37, 41, 1) 100%
   );
-  z-index: -500;
 }
 
 .hero__main {
   height: 90vh;
+  position: relative;
+  z-index: 500;
 }
 
 .hero__main_header {
@@ -59,12 +64,40 @@ body {
   left: 0;
   height: 100%;
   width: 100%;
-  z-index: -1;
+  z-index: -1000;
   opacity: 0.35;
   clip-path: polygon(42% 0, 100% 0%, 100% 100%, 0% 100%);
 }
+
 .video_content {
   height: 100%;
   width: 100%;
   object-fit: cover;
+}
+
+.btn,
+.btn:visited,
+.btn:link {
+  display: inline-block;
+  padding: 1.4rem 2.8rem;
+  border-radius: 5rem;
+  border: 0.3rem solid var(--main-txt-color);
+  text-decoration: none;
+  pointer-events: auto;
+}
+
+.btn:hover {
+  transform: scale(1.1);
+  background-color: red;
+}
+
+.btn:active {
+  background-color: black;
+}
+
+.hero__btn {
+  font-family: "Permanent Marker", cursive;
+  font-size: 2.3rem;
+  color: var(--main-txt-color);
+  background-color: var(--main-bg-color);
 }
