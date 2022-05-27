@@ -116,7 +116,7 @@ body {
 }
 
 #schedules {
-  height: 250vh;
+  /* height: 250vh; */
   padding: 3rem 10rem 0;
 }
 
@@ -132,7 +132,7 @@ body {
   height: 16.5rem;
 }
 
-.testimonial {
+.testimonial:not(:last-child) {
   position: relative;
   border-bottom: 0.1rem solid #fff;
 }
@@ -171,4 +171,9 @@ body {
 
 .testimonial3_img {
   width: 25rem;
+}
+
+#callToAction {
+  background-color: #fff;
+  height: 50vh;
 }
