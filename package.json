@@ -1,0 +1,22 @@
+{
+  "name": "super-duper-event",
+  "version": "1.0.0",
+  "description": "Concert landing page",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jean-f-05/super-duper-event.git"
+  },
+  "author": "Jean Francois",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jean-f-05/super-duper-event/issues"
+  },
+  "homepage": "https://github.com/Jean-f-05/super-duper-event#readme",
+  "devDependencies": {
+    "parcel": "^2.6.0"
+  }
+}
