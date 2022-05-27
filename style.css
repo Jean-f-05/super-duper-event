@@ -67,6 +67,10 @@ body {
   font-size: 4rem;
 }
 
+.header__assist {
+  font-size: 2.3rem;
+}
+
 .hero__bg-video {
   position: absolute;
   top: 0;
@@ -174,6 +178,52 @@ body {
 }
 
 #callToAction {
-  background-color: #fff;
-  height: 50vh;
+  background: rgb(33, 37, 41);
+  /* height: 50vh; */
+  padding: 3rem 10rem 0;
+}
+
+.cta__grid {
+  border-top: 1px solid #fff;
+  display: grid;
+  grid-template-columns: repeat(5, 1fr [col-start]);
+  grid-template-rows: repeat(5, min-content);
+  gap: 10px 10px;
+}
+
+.cta__img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+.cta__item-1 {
+  grid-column: 1/2;
+}
+
+.cta__item-2 {
+  grid-column: 2/3;
+}
+
+.cta__item-3 {
+  grid-column: 3/4;
+}
+
+.cta__item-4 {
+  grid-column: 4/5;
+}
+
+.cta__item-5 {
+  grid-column: 5/-1;
+}
+
+.cta__item-6 {
+  grid-column: 5/-1;
+  grid-row: 2/4;
+}
+
+.cta__item-7 {
+  grid-column: 5/-1;
+  grid-row: 4/6;
 }
