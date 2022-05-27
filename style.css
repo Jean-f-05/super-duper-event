@@ -133,11 +133,12 @@ body {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  height: 16.5rem;
+  /* height: 16.5rem; */
 }
 
 .testimonial:not(:last-child) {
   position: relative;
+  padding: 1rem 0;
   border-bottom: 0.1rem solid var(--main-txt-color);
 }
 
@@ -166,14 +167,6 @@ body {
 }
 
 .testimonial_img {
-  width: 25rem;
-}
-
-.testimonial2_img {
-  width: 10rem;
-}
-
-.testimonial3_img {
   width: 25rem;
 }
 
@@ -274,4 +267,101 @@ body {
   margin: 7rem 0 2rem 0;
   display: flex;
   justify-content: center;
+}
+
+/* BREAKPOINT 1200PX  */
+@media screen and (max-width: 75em) {
+  .main {
+    margin: 0;
+  }
+}
+
+/* BREAKPOINT 1000PX  */
+@media screen and (max-width: 62.5em) {
+  html {
+    font-size: 50%;
+  }
+
+  .testimonial3 figure {
+    margin-top: 1.5rem;
+  }
+}
+
+/* BREAKPOINT 700PX  */
+@media screen and (max-width: 44em) {
+  html {
+    font-size: 43.5%;
+  }
+
+  .cta__form {
+    align-items: center;
+  }
+
+  .cta__grid {
+    border-right: none;
+  }
+
+  .cta__item-6 {
+    display: none;
+  }
+
+  .cta__header {
+    grid-column: 2/5;
+    grid-row: 2/3;
+    padding-left: 0;
+    text-align: center;
+  }
+
+  .cta__form__container {
+    grid-column: 2/5;
+    grid-row: 3/4;
+    padding-left: 0;
+  }
+}
+
+/* BREAKPOINT 700PX  */
+@media screen and (max-width: 37.5em) {
+  .hero__main {
+    text-align: center;
+  }
+  .figure {
+    flex-direction: column;
+    gap: 2rem;
+  }
+
+  #schedules {
+    padding: 2rem 0;
+    text-align: center;
+  }
+
+  #callToAction {
+    margin: 0;
+    padding: 0;
+  }
+
+  .cta__grid {
+    gap: 0;
+  }
+
+  .cta__item-1 {
+    grid-column: 1/6;
+    height: 15rem;
+  }
+
+  .cta__item-2 {
+    display: none;
+  }
+
+  .cta__item-3 {
+    display: none;
+  }
+  .cta__item-4 {
+    display: none;
+  }
+  .cta__item-5 {
+    display: none;
+  }
+  .cta__item-6 {
+    display: none;
+  }
 }
