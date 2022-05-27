@@ -1,4 +1,4 @@
-4229
+4234
 92/home/plastic/Documents/JavaScript/Ongoing Projects/super-duper-event/dist/cta1.eb2a225d.jpg1653659131497478503 0
 108/home/plastic/Documents/JavaScript/Ongoing Projects/super-duper-event/dist/super-duper-event.3464ddca.js.map1653659131493478502 0
 95/home/plastic/Documents/JavaScript/Ongoing Projects/super-duper-event/dist/concert.4a88251b.mp41653659369375748281 0
@@ -8,7 +8,7 @@
 92/home/plastic/Documents/JavaScript/Ongoing Projects/super-duper-event/dist/cta2.df7a1126.jpg1653658531629653807 0
 92/home/plastic/Documents/JavaScript/Ongoing Projects/super-duper-event/dist/daft.56eb804d.jpg1653658531629653807 0
 97/home/plastic/Documents/JavaScript/Ongoing Projects/super-duper-event/dist/index.3a01df49.css.map1653659131481478504 0
-85/home/plastic/Documents/JavaScript/Ongoing Projects/super-duper-event/dist/index.html1653660738840384728 0
+85/home/plastic/Documents/JavaScript/Ongoing Projects/super-duper-event/dist/index.html1653662509092025372 0
 93/home/plastic/Documents/JavaScript/Ongoing Projects/super-duper-event/dist/index.3a01df49.css1653659131481478504 0
 95/home/plastic/Documents/JavaScript/Ongoing Projects/super-duper-event/dist/concert.2016b758.mp41653659131585478490 0
 93/home/plastic/Documents/JavaScript/Ongoing Projects/super-duper-event/dist/index.cd8444df.css1653658531869653683 0
@@ -19,7 +19,7 @@
 92/home/plastic/Documents/JavaScript/Ongoing Projects/super-duper-event/dist/cta5.034f447a.jpg1653659131497478503 0
 92/home/plastic/Documents/JavaScript/Ongoing Projects/super-duper-event/dist/cta3.50eb99ea.jpg1653658531537653856 0
 100/home/plastic/Documents/JavaScript/Ongoing Projects/super-duper-event/dist/chemicalsRev.c09e862d.png1653658531537653856 0
-74/home/plastic/Documents/JavaScript/Ongoing Projects/super-duper-event/dist1653660738856384721 1
+74/home/plastic/Documents/JavaScript/Ongoing Projects/super-duper-event/dist1653662509096025369 1
 83/home/plastic/Documents/JavaScript/Ongoing Projects/super-duper-event/imgs/cta6.jpg1653643728692345042 0
 83/home/plastic/Documents/JavaScript/Ongoing Projects/super-duper-event/imgs/ctaU.jpg1653643827738762030 0
 83/home/plastic/Documents/JavaScript/Ongoing Projects/super-duper-event/imgs/daft.jpg1653644763880763381 0
@@ -28,10 +28,9 @@
 83/home/plastic/Documents/JavaScript/Ongoing Projects/super-duper-event/imgs/cta1.jpg1653643226827252323 0
 83/home/plastic/Documents/JavaScript/Ongoing Projects/super-duper-event/imgs/cta3.jpg1653644674749876385 0
 83/home/plastic/Documents/JavaScript/Ongoing Projects/super-duper-event/imgs/cta2.jpg1653643719928014775 0
-89/home/plastic/Documents/JavaScript/Ongoing Projects/super-duper-event/imgs/concertLow.mp41653660540792497947 0
-74/home/plastic/Documents/JavaScript/Ongoing Projects/super-duper-event/imgs1653660642508434078 1
+74/home/plastic/Documents/JavaScript/Ongoing Projects/super-duper-event/imgs1653662356332150437 1
 87/home/plastic/Documents/JavaScript/Ongoing Projects/super-duper-event/package-lock.json1653658148285953423 0
-80/home/plastic/Documents/JavaScript/Ongoing Projects/super-duper-event/index.html1653660678348414564 0
+80/home/plastic/Documents/JavaScript/Ongoing Projects/super-duper-event/index.html1653662508876025521 0
 79/home/plastic/Documents/JavaScript/Ongoing Projects/super-duper-event/README.md1653557650066100980 0
 76/home/plastic/Documents/JavaScript/Ongoing Projects/super-duper-event/app.js1653557672690627753 0
 82/home/plastic/Documents/JavaScript/Ongoing Projects/super-duper-event/package.json1653658517645661148 0
@@ -539,6 +538,7 @@
 98/home/plastic/Documents/JavaScript/Ongoing Projects/super-duper-event/node_modules/xxhash-wasm/esm1653658120413985578 1
 118/home/plastic/Documents/JavaScript/Ongoing Projects/super-duper-event/node_modules/caniuse-lite/data/features/touch.js1653658123097982400 0
 104/home/plastic/Documents/JavaScript/Ongoing Projects/super-duper-event/node_modules/xxhash-wasm/README.md1653658120481985497 0
+91/home/plastic/Documents/JavaScript/Ongoing Projects/super-duper-event/imgs/concertwebm.webm1653662283060225530 0
 113/home/plastic/Documents/JavaScript/Ongoing Projects/super-duper-event/node_modules/xxhash-wasm/cjs/xxhash-wasm.js1653658120317985691 0
 98/home/plastic/Documents/JavaScript/Ongoing Projects/super-duper-event/node_modules/xxhash-wasm/cjs1653658120405985587 1
 113/home/plastic/Documents/JavaScript/Ongoing Projects/super-duper-event/node_modules/xxhash-wasm/umd/xxhash-wasm.js1653658120385985611 0
@@ -691,6 +691,7 @@
 120/home/plastic/Documents/JavaScript/Ongoing Projects/super-duper-event/node_modules/css-tree/lib/syntax/pseudo/slotted.js1653658121909983804 0
 125/home/plastic/Documents/JavaScript/Ongoing Projects/super-duper-event/node_modules/css-tree/lib/syntax/function/expression.js1653658121317984506 0
 118/home/plastic/Documents/JavaScript/Ongoing Projects/super-duper-event/node_modules/css-tree/lib/syntax/function/var.js1653658121993983704 0
+89/home/plastic/Documents/JavaScript/Ongoing Projects/super-duper-event/imgs/concertmp4.mp41653662083264496173 0
 111/home/plastic/Documents/JavaScript/Ongoing Projects/super-duper-event/node_modules/css-tree/lib/syntax/function1653658121989983709 1
 122/home/plastic/Documents/JavaScript/Ongoing Projects/super-duper-event/node_modules/css-tree/lib/utils/createCustomError.js1653658120901985000 0
 128/home/plastic/Documents/JavaScript/Ongoing Projects/super-duper-event/node_modules/caniuse-lite/data/features/element-closest.js1653658122353983279 0
@@ -1583,6 +1584,7 @@
 130/home/plastic/Documents/JavaScript/Ongoing Projects/super-duper-event/node_modules/lmdb/dependencies/lmdb/libraries/liblmdb/midl.h1653658122049983638 0
 94/home/plastic/Documents/JavaScript/Ongoing Projects/super-duper-event/node_modules/ansi-styles1653658120345985659 1
 95/home/plastic/Documents/JavaScript/Ongoing Projects/super-duper-event/node_modules/yaml/browser1653658121017984862 1
+100/home/plastic/Documents/JavaScript/Ongoing Projects/super-duper-event/dist/concertwebm.bc0d1ddc.webm1653662381508127087 0
 122/home/plastic/Documents/JavaScript/Ongoing Projects/super-duper-event/node_modules/caniuse-lite/data/features/clipboard.js1653658121429984373 0
 154/home/plastic/Documents/JavaScript/Ongoing Projects/super-duper-event/node_modules/lmdb/build/Release/.deps/Release/obj.target/lmdb/src/ordered-binary.o.d1653658136853966391 0
 135/home/plastic/Documents/JavaScript/Ongoing Projects/super-duper-event/node_modules/@parcel/package-manager/test/fixtures/packages/peers1653658122157983511 1
@@ -1691,6 +1693,7 @@
 111/home/plastic/Documents/JavaScript/Ongoing Projects/super-duper-event/node_modules/@parcel/reporter-cli/LICENSE1653658122233983420 0
 119/home/plastic/Documents/JavaScript/Ongoing Projects/super-duper-event/node_modules/caniuse-lite/data/features/webgpu.js1653658123193982287 0
 116/home/plastic/Documents/JavaScript/Ongoing Projects/super-duper-event/node_modules/@parcel/reporter-cli/src/utils.js1653658122349983284 0
+98/home/plastic/Documents/JavaScript/Ongoing Projects/super-duper-event/dist/concertmp4.bd8f211c.mp41653662381476127115 0
 125/home/plastic/Documents/JavaScript/Ongoing Projects/super-duper-event/node_modules/css-select/lib/pseudo-selectors/aliases.js1653658120341985663 0
 132/home/plastic/Documents/JavaScript/Ongoing Projects/super-duper-event/node_modules/caniuse-lite/data/features/css-in-out-of-range.js1653658121925983785 0
 114/home/plastic/Documents/JavaScript/Ongoing Projects/super-duper-event/node_modules/caniuse-lite/data/regions/NP.js1653658122829982716 0
@@ -1850,6 +1853,7 @@
 116/home/plastic/Documents/JavaScript/Ongoing Projects/super-duper-event/node_modules/@parcel/utils/src/alternatives.js1653658121713984036 0
 130/home/plastic/Documents/JavaScript/Ongoing Projects/super-duper-event/node_modules/@babel/helper-validator-identifier/lib/index.js1653658120357985644 0
 117/home/plastic/Documents/JavaScript/Ongoing Projects/super-duper-event/node_modules/css-what/lib/commonjs/stringify.js1653658120473985506 0
+98/home/plastic/Documents/JavaScript/Ongoing Projects/super-duper-event/dist/concertmp4.5ba842b2.mp41653662446360072115 0
 140/home/plastic/Documents/JavaScript/Ongoing Projects/super-duper-event/node_modules/react-refresh/cjs/react-refresh-runtime.production.min.js1653658120461985521 0
 109/home/plastic/Documents/JavaScript/Ongoing Projects/super-duper-event/node_modules/@parcel/graph/lib/index.js1653658120797985122 0
 99/home/plastic/Documents/JavaScript/Ongoing Projects/super-duper-event/node_modules/htmlnano/test.js1653658120773985151 0
@@ -2226,6 +2230,7 @@
 124/home/plastic/Documents/JavaScript/Ongoing Projects/super-duper-event/node_modules/@parcel/namer-default/src/DefaultNamer.js1653658121549984230 0
 107/home/plastic/Documents/JavaScript/Ongoing Projects/super-duper-event/node_modules/json5/lib/stringify.d.ts1653658120713985222 0
 129/home/plastic/Documents/JavaScript/Ongoing Projects/super-duper-event/node_modules/@parcel/node-resolver-core/test/fixture/bar.js1653658120397985596 0
+100/home/plastic/Documents/JavaScript/Ongoing Projects/super-duper-event/dist/concertwebm.722b6122.webm1653662446376072102 0
 159/home/plastic/Documents/JavaScript/Ongoing Projects/super-duper-event/node_modules/lmdb/build/Release/obj.target/lmdb/dependencies/lmdb/libraries/liblmdb/mdb.o1653658147885953870 0
 114/home/plastic/Documents/JavaScript/Ongoing Projects/super-duper-event/node_modules/caniuse-lite/data/regions/DJ.js1653658122237983416 0
 113/home/plastic/Documents/JavaScript/Ongoing Projects/super-duper-event/node_modules/yaml/dist/warnings-1000a372.js1653658121061984810 0
